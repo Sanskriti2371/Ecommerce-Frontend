@@ -1,16 +1,18 @@
-# E-commerce Frontend Application
-
+# LUXE Store — Premium E-Commerce Frontend
+A modern e-commerce storefront built with vanilla HTML, CSS, and JavaScript. Dark premium UI with smooth animations and fully responsive design.
+---
 ## 🚀 Features
-- Dynamic product listing with add-to-cart functionality
-- Real-time cart updates and total price calculation
-- Responsive UI for desktop and mobile devices
-
+- **Product grid** — 6 curated products with hover effects and staggered animations
+- **Slide-in cart sidebar** — add, remove, and adjust quantity with +/− controls
+- **Live cart badge** — item count updates instantly on the navbar
+- **Toast notifications** — feedback on add-to-cart and checkout
+- **Premium dark theme** — gradient glow hero, glassmorphism, micro-animations
+- **Fully responsive** — mobile, tablet, and desktop
+- **Semantic & accessible** — proper HTML5 elements and aria labels
+- **Zero dependencies** — pure HTML, CSS, and JavaScript
+---
 ## 🛠️ Tech Stack
-- HTML
-- CSS
-- JavaScript
-
-## 📌 Project Overview
-This project is a frontend e-commerce application that allows users to browse products, add them to a shopping cart, and view the total cost dynamically.
-
-
+HTML5 · CSS3 (Grid, Flexbox, Custom Properties) · JavaScript (ES6+) · Google Fonts (Inter)
+---
+## ▶️ Getting Started
+Open `index.html` in any modern browser. No build tools required.
